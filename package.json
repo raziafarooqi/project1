@@ -1,0 +1,18 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "description": "abc",
+  "main": "abc",
+  "scripts": {
+    "test": "abc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "abc"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "abc",
+  "license": "ISC"
+}

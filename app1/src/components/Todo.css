@@ -1,0 +1,43 @@
+.main-div{
+    background-color:whitesmoke;
+    color:black;
+    border:2px solid black;
+    width:320px;
+}
+
+.showItems{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:10px;
+}
+input[type="text"]
+{
+    padding:10px;
+    margin:0.6px;
+}
+.eachItem{
+    
+    width:290px;
+
+    background-color: darkslateblue;
+    color:white;
+    margin:5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.eachItem:hover{
+    background-color: wheat;
+    color: darkslateblue;
+}
+.button1{
+    padding:16px 32px;
+    background-color: black;
+    color:white;
+    padding:20px 32px
+}
